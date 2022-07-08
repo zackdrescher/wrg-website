@@ -242,30 +242,30 @@ hr {
 	padding: 25px 0 45px 0;
 }
 
-/* About Section */
-#about {
+/* landing Section */
+#landing {
 	padding: 100px 0 0;
 	background: #264653;
 }
 
-#about .about-text {
+#landing .landing-text {
 	margin-left: 10px;
 }
 
-#about img {
+#landing img {
 	border-radius: 50%;
 	width: 300px;
 	height: 375px;
 	display: inline-block;
 }
 
-#about p {
+#landing p {
 	color: #F4A261;
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
 
-#about h2 {
+#landing h2 {
 	color: #E76F51;
 }
 
