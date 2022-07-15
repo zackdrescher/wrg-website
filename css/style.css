@@ -286,13 +286,33 @@ hr {
 
 /* About Section */
 #services {
-	padding: 50px 0 100px 0;
+	padding: 100px 0 100px 0;
 	background: #C2B8BA;
 }
 
 #services .services-text {
 	margin: auto;
 	text-align: center;
+}
+
+#services p {
+	color: #2D2829;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#services a:link {
+	color: #4265AF;
+}
+
+/* visited link */
+#services a:visited {
+	color: #44AD69;
+}
+
+/* mouse over link */
+#services a:hover {
+	color: #44AD69;
 }
 
 #services ul {
