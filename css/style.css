@@ -286,8 +286,8 @@ hr {
 
 /* About Section */
 #services {
-	padding: 0 0 100px 0;
-	background: #264653;
+	padding: 50px 0 100px 0;
+	background: #C2B8BA;
 }
 
 #services .services-text {
@@ -296,21 +296,21 @@ hr {
 }
 
 #services ul {
-	color: #F4A261;
+	color: #2D2829;
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
 
 #services h1 {
-	color: #E76F51;
+	color: #4265AF;
 }
 
 #services h2 {
-	color: #E76F51;
+	color: #4265AF;
 }
 
 #services hr {
-	background: #F4B515;
+	background: #E16826;
 }
 
 /* Contact Section */
@@ -457,8 +457,8 @@ a:focus,
 
 /* Footer Section*/
 #footer {
-	background: #264653;
-	color: #7d8384;
+	background: #E16826;
+	color: #ffffff;
 	padding: 30px 0 25px 0;
 }
 
