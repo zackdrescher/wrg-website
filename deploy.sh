@@ -1,1 +1,1 @@
-aws s3 sync . s3://zackdrescher.com --exclude ".git/*" --exclude ".gitignore" --exclude "deploy.sh"
+aws s3 sync . s3://wiggleroom.games --exclude ".git/*" --exclude ".gitignore" --exclude "deploy.sh"
