@@ -1,6 +1,6 @@
 @font-face {
 	font-family: mainFont;
-	src: url("Roboto_Mono/static/RobotoMono-Light.ttf");
+	src: url("dazzle-unicase-light/dazzle-unicase-light.otf");
 }
 
 body,
@@ -286,7 +286,7 @@ hr {
 
 /* About Section */
 #services {
-	padding: 100px 0 100px 0;
+	padding: 100px 15px 100px 15px;
 	background: #C2B8BA;
 }
 
