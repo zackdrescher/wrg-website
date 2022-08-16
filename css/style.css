@@ -295,6 +295,12 @@ hr {
 	text-align: center;
 }
 
+#services .link-icon {
+	fill: #E76F51;
+	height: 25px;
+	width: 25px;
+}
+
 #services p {
 	color: #2D2829;
 	margin-top: 20px;
